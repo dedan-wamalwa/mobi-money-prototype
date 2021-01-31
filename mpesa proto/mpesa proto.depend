@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575041344 source:c:\users\dedan\desktop\c++ programs\mpesa proto\main.cpp
+	<iostream>
+	<string>
+
